@@ -1,1 +1,9 @@
 
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.eduardobenjamin117_creator.twa",
+        "sha256_cert_fingerprints": ["BC:48:9D:88:2A:D0:1F:4F:24:FF:3C:7F:8A:ED:F6:F4:F4:02:45:EF:CF:A4:0C:95:72:28:48:DF:FD:B9:B7:AD"]
+      }
+    }] esa
